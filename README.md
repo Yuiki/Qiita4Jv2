@@ -8,7 +8,7 @@ Qiita4Jv2
 You can use Qiita API v2 easily by using this library.  
 This library also supports Qiita API v2 for Qiita:Team.  
 
-If you want to use <a href="https://qiita.com/api/v1/docs" target="_blank">Qiita API v1</a> wrapper in Java, you could use [Qiita4j]("https://github.com/zaneli/qiita4j").
+If you want to use <a href="https://qiita.com/api/v1/docs" target="_blank">Qiita API v1</a> wrapper in Java, you could use <a href="https://github.com/zaneli/qiita4j" target="_blank">Qiita4j</a>
 
 ## Usage
 ##### Preparation
