@@ -1,6 +1,6 @@
 Qiita4Jv2
 ====
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Yuiki/qiita4jv2/blob/master/LICENCE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/Yuiki/Qiita4Jv2/blob/master/LICENSE)
 
 [Qiita API v2](https://qiita.com/api/v2/docs) wrapper library for Java.
 
