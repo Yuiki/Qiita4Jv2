@@ -11,6 +11,7 @@ This library also supports Qiita API v2 for Qiita:Team.
 If you want to use <a href="https://qiita.com/api/v1/docs" target="_blank">Qiita API v1</a> wrapper in Java, you could use <a href="https://github.com/zaneli/qiita4j" target="_blank">Qiita4j</a>
 
 ## Usage
+You can get the detailed usage on <a href="https://yuiki.github.io/Qiita4Jv2/">Javadoc</a>
 ##### Preparation
 ```Java
 // If you want to target http://qiita.com/
@@ -24,10 +25,10 @@ qiita.setAccessToken("accessToken");
 ```
 
 ##### Obtain a authorized url and new access token
-You can issue a new access token in <a href="https://qiita.com/settings/tokens/new" target="_blank">https://qiita.com/settings/tokens/new</a>
+You can issue a new access token on <a href="https://qiita.com/settings/tokens/new" target="_blank">https://qiita.com/settings/tokens/new</a>
 However, if you want to get an autorized page and a new access token, please follow the instructions below.
 
-1 Create a new qiita application in <a href="https://qiita.com/settings/applications/new" target="_blank">https://qiita.com/settings/applications/new</a>  
+1 Create a new qiita application on <a href="https://qiita.com/settings/applications/new" target="_blank">https://qiita.com/settings/applications/new</a>  
 2 Set the issued client id and client secret.  
 ```Java
 qiita.setClientInformation("client_id", "client_secret");
