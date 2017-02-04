@@ -66,5 +66,4 @@ Acctuary, when you use Qiita API by using this qiita instance, you should catch 
 If you want to the error details, you can use `QiitaException#getType` or `QiitaException#getMessage`.
 
 ## Download
-I'm preparing to publish this library to mavenCentral.  
-Stay tuned!
+Let's clone!
